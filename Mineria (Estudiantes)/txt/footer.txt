@@ -1,0 +1,28 @@
+<!--Lado A-->
+            <div class="footerLadoA">
+				<hr>
+				<p>
+					<span>Condiciones de Uso</span> / 
+                    <span>Políticas de Privacidad</span> / 
+                    <span>Noticias</span>
+				<p>
+				<hr>
+            </div><!--Fin FooterLadoA--> 
+            <!--Lado B-->
+            <div class="footerLadoA">
+                <div class="footerLadoB">
+					<strong>Diseñado por: José Vizcaíno<br>
+                    Derechos Reservados</strong>
+                </div>
+				<div class="footerLadoB">
+					<a href="http://es-es.facebook.com/trabajaenmineria" target="_blank">
+						<img src="img/facebook.png" alt="Facebook" title="Facebook" width="150" height="50">
+					</a>
+					<a href="#">
+						<img src="img/twitter.png" alt="Twitter" title="Twitter" width="150" height="50">
+					</a>
+					<a href="#">
+						<img src="img/instagram.png" alt="Instagram" title="Instagram" width="150" height="50">
+					</a>
+				</div>
+            </div><!--Fin FooterLadoA--> 
